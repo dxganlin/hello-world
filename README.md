@@ -7,3 +7,4 @@ Let me change something to pull.
 this is a branch.
 readme-edits add.
 SmartGit add.
+HTTPS test!

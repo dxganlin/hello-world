@@ -8,3 +8,4 @@ this is a branch.
 readme-edits add.
 SmartGit add.
 HTTPS test!
+remove SSH KEY HTTPS test again!

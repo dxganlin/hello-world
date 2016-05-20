@@ -10,3 +10,4 @@ SmartGit add.
 HTTPS test!
 remove SSH KEY HTTPS test again!
 HTTPS test again!
+Add again!
